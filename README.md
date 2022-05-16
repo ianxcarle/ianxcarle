@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ianxcarle
 - 👀 I’m interested in Cybersecurity, Web3, Automation
-- 🌱 I’m currently learning PCI-DSS 4.0, blockchain
+- 🌱 I’m currently learning PCI-DSS 4.0, Juniper networking, blockchain
 - 💞️ I’m looking to collaborate on big ideas.
 - 📫 How to reach me ian@carledigital.com
 
