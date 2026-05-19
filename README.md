@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ianxcarle
 - 👀 I’m interested in Cybersecurity, Web3, Automation
-- 🌱 I’m currently learning PCI-DSS 4.0, Juniper networking, blockchain
+- 🌱 I’m currently learning GRC frameworks, SecOps Automation, Cloud Architecture
 - 💞️ I’m looking to collaborate on big ideas.
 - 📫 How to reach me ian.carle@icloud.com
 
